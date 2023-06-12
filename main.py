@@ -8,7 +8,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 client = commands.Bot(command_prefix='!', intents=intents)
 
-aliasbot = aliaschecker("INPUT WEBHOOK HERE")
+aliasbot = aliaschecker("INPUT WEBHOOK HERE", "ENTER VAT AMOUNT HERE - e.g. 19% = 1.19")
 
 
 @client.event
