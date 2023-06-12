@@ -8,6 +8,7 @@ The checker includes:
 - Sales Volume for each size -> Calcualtes the days it took to sell 10 pairs.
 - Profit after all fees
 - Price in euro, taken from current exchange rate USD/EUR
+- proxy handling, create a proxies.txt file in the folder and input proxies
 
 You can check a sneaker by sending a webhook in your channel with:
 !a {SKU} {price}
