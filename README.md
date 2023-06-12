@@ -19,3 +19,4 @@ Example webhook with following input:
 
 <img width="526" alt="Bildschirm­foto 2023-06-12 um 16 46 44" src="https://github.com/jonathanyly/aliaschecker/assets/114871601/89a76698-e400-4e68-a98a-63640a591706">
 
+To run the program go to main.py -> input webhook discord url at the top and your discord bot token at the end of the script
