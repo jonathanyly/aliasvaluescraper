@@ -1,4 +1,4 @@
-# Alias Sneaker Price Checker for VAT registered companies
+# Alias Sneaker Price comparator for VAT registered companies
 
 This python repository is used to check for sneaker prices.
 It takes in a given webhook and your countries VAT amount (e.g. Germany -> 19% VAT -> 1.19 as input)
